@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.formname{
+    text-align: center;
+}
+.badd{
+    text-align: right;
+    padding-right: 10px;
+}
+input{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+label{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+h4{
+    text-decoration: underline ;
+}
+select{
+    margin-top: 10px;
+}
+p{
+    text-align: right;
+    padding-right: 10px;
+}
+body{
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
